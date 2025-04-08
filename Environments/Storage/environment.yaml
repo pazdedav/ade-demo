@@ -9,7 +9,7 @@ parameters:
   description: "The location for the Storage Account"
   type: "string"
   default: "westeurope"
-  required: true
+  required: false
 - id: "storageAccountName"
   name: "Storage Account Name"
   description: "The name of the Storage Account"
